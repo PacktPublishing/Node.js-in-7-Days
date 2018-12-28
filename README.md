@@ -23,11 +23,11 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Web developers who want to learn Node.js for their server-side web development and who have some knowledge of JavaScript programming will benefit from this course. No prior knowledge of Node.js is required.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Windows(Covered)
-Linux
-OS X
-VS Code
-Node.js
+Windows(Covered)<br/>
+Linux<br/>
+OS X<br/>
+VS Code<br/>
+Node.js<br/>
 
 ## Related Products
 * [Securing Applications in Node.js [Video]](https://www.packtpub.com/web-development/securing-applications-nodejs-video?utm_source=github&utm_medium=repository&utm_campaign=9781789136791)
